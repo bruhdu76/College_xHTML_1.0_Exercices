@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(20, 20, 20);
+}
+p, h1, h2, h3, h4, h5, blockquote, pre, hr, ol, li, ul, dl, dt, tr, td, table {
+    color: white;
+}
+
+b {
+    color: white;
+}
