@@ -1,0 +1,47 @@
+body {
+    color: #009090;
+    background-color: rgb(250,200,100);
+}
+
+h1 {
+  border: solid;
+  text-align: center;
+  margin-left: 3%;
+  margin-right: 3%;
+  font-family: sans-serif;
+}
+
+h2, h3 {
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
+div {
+  background-color: red;
+  border: dotted;
+  padding: 1%;
+}
+
+#id1 {
+  background-color: white;
+  padding: 3%;
+  margin-left: 5%;
+  margin-right: 10%;
+  border: solid;
+}
+
+p {
+  text-indent: 2%;
+}
+
+p.bloc {
+  border-left: solid;
+  border-left-color: black;
+  margin-left: 3%;
+  padding-left: 1%;
+}
+
+.souligne {
+  text-decoration: underline;
+}
+

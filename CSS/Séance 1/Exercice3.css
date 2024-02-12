@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+}
+
+h1#Bonjour {
+    border: solid thick;
+    background-color: yellow;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2#Monde {
+    border: dotted thick;
+    border-color: purple;
+    background-color: aqua;
+    padding-left: 10%;
+    padding: 45px;
+}
+
+hr {
+    border: dashed thick;
+    height: 10pt;
+    color: red;
+    background-color: white;
+}

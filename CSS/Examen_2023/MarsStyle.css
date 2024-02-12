@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(213, 127, 93);
+    margin-left: 20pt;
+    margin-right: 20pt;
+}
+
+h1 {
+    color: red;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: red;
+    text-align: center;
+}
+
+b {
+    color: red;
+}
+
+p.centre {
+    text-align: right;
+}
+
+img {
+    max-width: 100px;
+    max-width: 200px;
+}
+
+h2 {
+    border: dotted;
+    background-color: blanchedalmond;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding-right: 80pt;
+    text-align: left;
+}
+
+ol {
+    list-style-image: url(Mars2.png);
+}
+
+ul {
+    list-style-image: None;
+}

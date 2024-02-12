@@ -1,0 +1,45 @@
+h1 {
+    background-color: pink;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p.centre {
+    text-align: center;
+}
+
+img {
+    border: ridge 10px;
+    border-color: rgb(101, 125, 243);
+}
+
+p {
+    text-indent: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2 {
+    background-color: purple;
+    color: white;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+ul {
+    border-left: solid thick; 
+    list-style-type: none;
+    margin-left: 22pt;
+}
+
+ul li {
+    background-color: darkcyan;
+    margin-right: 40%;
+}
+
+ol li {
+    font-size: small;
+}

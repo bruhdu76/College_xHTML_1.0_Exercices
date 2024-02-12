@@ -1,0 +1,72 @@
+body {
+    border: solid thick;
+}
+
+h1 {
+    text-align: center;
+    background-color: pink;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1+p {
+    border-left: solid;
+    border-right: solid;
+    margin-left: 2%;
+    margin-right: 40%;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightgreen;
+    padding: 3%;
+    color: white;
+}
+
+h3 {
+    background-color: darkblue;
+    color: white;
+    margin-right: 40%;
+    margin-left: 2%;
+}
+
+p {
+    border-left: solid;
+    border-right: solid;
+    margin-left: 2%;
+    margin-right: 40%;
+    text-align: left;
+    padding-left: 5pt;
+    padding-right: 5pt;
+}
+
+ol {
+    list-style-type: upper-roman;
+    margin-left: 2%;
+}
+
+ul {
+    list-style-type: square;
+}
+
+table {
+    margin-left: 2%;
+}
+
+td {
+    padding-right: 40pt;
+    padding-left: 40pt;
+}
+
+address { 
+    text-align: right;
+    font-size: small;
+}
+
+hr { 
+    border: transparent;
+ }
+
+a {
+    text-decoration: none;
+ }
